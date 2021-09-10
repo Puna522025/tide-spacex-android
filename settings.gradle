@@ -1,0 +1,4 @@
+rootProject.name = "tide-android-spacex"
+include ':app'
+include ':tide-spacex-network'
+include ':tide-spacex-ui'

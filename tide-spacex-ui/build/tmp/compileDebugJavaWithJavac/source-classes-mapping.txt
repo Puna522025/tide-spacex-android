@@ -1,0 +1,51 @@
+hilt_aggregated_deps/_com_tide_spacex_ui_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_tide_spacex_ui_MainActivity_GeneratedInjector
+com/tide/spacex/ui/databinding/RocketDetailsFragmentBinding.java
+ com.tide.spacex.ui.databinding.RocketDetailsFragmentBinding
+com/tide/spacex/ui/viewmodel/RocketListViewModel_Factory.java
+ com.tide.spacex.ui.viewmodel.RocketListViewModel_Factory
+com/tide/spacex/ui/injection/CustomViewModelFactory_Factory.java
+ com.tide.spacex.ui.injection.CustomViewModelFactory_Factory
+com/tide/spacex/ui/databinding/RocketLaunchDetailsHeaderBinding.java
+ com.tide.spacex.ui.databinding.RocketLaunchDetailsHeaderBinding
+com/tide/spacex/ui/databinding/BaseActivityBinding.java
+ com.tide.spacex.ui.databinding.BaseActivityBinding
+com/tide/spacex/ui/injection/ViewModuleInjects_RocketListViewModelFactory.java
+ com.tide.spacex.ui.injection.ViewModuleInjects_RocketListViewModelFactory
+com/tide/spacex/ui/databinding/RocketsListItemBinding.java
+ com.tide.spacex.ui.databinding.RocketsListItemBinding
+com/tide/spacex/ui/injection/ViewModuleInjects_RocketDetailsViewModelFactory.java
+ com.tide.spacex.ui.injection.ViewModuleInjects_RocketDetailsViewModelFactory
+com/tide/spacex/ui/databinding/RocketLaunchDetailsItemBinding.java
+ com.tide.spacex.ui.databinding.RocketLaunchDetailsItemBinding
+com/tide/spacex/ui/BuildConfig.java
+ com.tide.spacex.ui.BuildConfig
+com/tide/spacex/ui/databinding/RocketsListFragmentBinding.java
+ com.tide.spacex.ui.databinding.RocketsListFragmentBinding
+hilt_aggregated_deps/_com_tide_spacex_ui_injection_ViewModuleInjects.java
+ hilt_aggregated_deps._com_tide_spacex_ui_injection_ViewModuleInjects
+com/tide/spacex/ui/injection/ViewModelKey.java
+ com.tide.spacex.ui.injection.ViewModelKey
+com/tide/spacex/ui/viewmodel/RocketDetailsViewModel_Factory.java
+ com.tide.spacex.ui.viewmodel.RocketDetailsViewModel_Factory
+hilt_aggregated_deps/_com_tide_spacex_ui_fragments_RocketListFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_tide_spacex_ui_fragments_RocketListFragment_GeneratedInjector
+hilt_aggregated_deps/_com_tide_spacex_ui_fragments_RocketDetailsFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_tide_spacex_ui_fragments_RocketDetailsFragment_GeneratedInjector
+com/tide/spacex/ui/fragments/RocketDetailsFragment_MembersInjector.java
+ com.tide.spacex.ui.fragments.RocketDetailsFragment_MembersInjector
+com/tide/spacex/ui/fragments/Hilt_RocketDetailsFragment.java
+ com.tide.spacex.ui.fragments.Hilt_RocketDetailsFragment
+com/tide/spacex/ui/fragments/RocketDetailsFragment_GeneratedInjector.java
+ com.tide.spacex.ui.fragments.RocketDetailsFragment_GeneratedInjector
+com/tide/spacex/ui/fragments/RocketListFragment_MembersInjector.java
+ com.tide.spacex.ui.fragments.RocketListFragment_MembersInjector
+com/tide/spacex/ui/MainActivity_GeneratedInjector.java
+ com.tide.spacex.ui.MainActivity_GeneratedInjector
+com/tide/spacex/ui/fragments/RocketListFragment_GeneratedInjector.java
+ com.tide.spacex.ui.fragments.RocketListFragment_GeneratedInjector
+com/tide/spacex/ui/fragments/Hilt_RocketListFragment.java
+ com.tide.spacex.ui.fragments.Hilt_RocketListFragment
+com/tide/spacex/ui/Hilt_MainActivity.java
+ com.tide.spacex.ui.Hilt_MainActivity
+ com.tide.spacex.ui.Hilt_MainActivity$1

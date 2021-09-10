@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tide-android-spacex.iml" filepath="$PROJECT_DIR$/.idea/modules/tide-android-spacex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/tide-android-spacex.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/tide-android-spacex.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tide-spacex-network/tide-android-spacex.tide-spacex-network.iml" filepath="$PROJECT_DIR$/.idea/modules/tide-spacex-network/tide-android-spacex.tide-spacex-network.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tide-spacex-ui/tide-android-spacex.tide-spacex-ui.iml" filepath="$PROJECT_DIR$/.idea/modules/tide-spacex-ui/tide-android-spacex.tide-spacex-ui.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:2:1-20:12
+INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:3:5-33
+		INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+		INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:5:5-18:19
+activity#com.tide.spacex.ui.MainActivity
+ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:6:9-17:20
+	android:screenOrientation
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:9:13-49
+	android:label
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:8:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:11:13-54
+	android:theme
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:10:13-59
+	android:name
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:7:13-41
+intent-filter#category:name:android.intent.category.DEFAULT
+ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:13:13-15:29
+category#android.intent.category.DEFAULT
+ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:14:17-76
+	android:name
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml:14:27-73
+uses-sdk
+INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+		INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+		ADDED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
+		INJECTED from /Users/punkapoo/tide-android-spacex/tide-spacex-ui/src/main/AndroidManifest.xml
