@@ -44,3 +44,8 @@ Used Glide Library
 2. User can refresh the data
 3. Splash Screen
 4. Rocket launches grouped together based on year and displayed under "Year" header.
+
+![Screenshot_20210911-104929_SpaceX](https://user-images.githubusercontent.com/24222492/132937271-13592b16-5652-4ce5-959c-04303a820a53.jpg)
+![Screenshot_20210911-104933_SpaceX](https://user-images.githubusercontent.com/24222492/132937276-061ab594-fccb-4787-999e-6b7a0dad0bba.jpg)
+![Screenshot_20210911-104920_SpaceX](https://user-images.githubusercontent.com/24222492/132937282-36633a8b-b510-449c-acde-e6496f8e66e9.jpg)
+
