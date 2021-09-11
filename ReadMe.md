@@ -45,7 +45,7 @@ Used Glide Library
 3. Splash Screen
 4. Rocket launches grouped together based on year and displayed under "Year" header.
 
-**SPLASh SCREEN**
+**SPLASH SCREEN**
 ![Screenshot_20210911-104929_SpaceX](https://user-images.githubusercontent.com/24222492/132937271-13592b16-5652-4ce5-959c-04303a820a53.jpg)
 
 **LOADER**
